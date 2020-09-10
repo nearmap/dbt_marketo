@@ -1,6 +1,6 @@
 packages:
   - package: fishtown-analytics/dbt_utils
-    version: 0.5.0
+    version: 0.5.1
 
   - git: https://github.com/nearmap/dbt_marketo_source.git
     revision: master
